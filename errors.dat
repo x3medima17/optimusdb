@@ -1,0 +1,14 @@
+Commands
+	1: Unrecognized command
+
+Purge
+	2: Something went wrong
+	7: Nothing to purge
+
+Init
+	3: Initialization is already done
+
+Databases
+	4: Database exists
+	5: Syntax error
+	6: Database not found 
